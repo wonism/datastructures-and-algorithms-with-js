@@ -1,9 +1,9 @@
 # Spider monkey installation
 __Install SpiderMonkey__
 ```sh
-$ curl -O http://ftp.mozilla.org/pub/mozilla.org/js/js-1.7.0.tar.gz
+$ curl -O http://ftp.mozilla.org/pub/mozilla.org/js/js-1.8.5.tar.gz
 $ curl -O http://svn.macports.org/repository/macports/trunk/dports/lang/spidermonkey/files/patch-jsprf.c
-$ tar xvzf js-1.7.0.tar.gz
+$ tar xvzf js-1.8.5.tar.gz
 $ cd js/src
 $ patch -p0 -i ../../patch-jsprf.c
 $ make -f Makefile.ref
