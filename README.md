@@ -11,7 +11,7 @@
 - [1. 자바스크립트 프로그래밍 환경과 모델](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-01.md)
 - [2. 배열](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-02.md)
 - [3. 리스트](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-03.md)
-- [4. 스펙](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-04.md)
+- [4. 스택](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-04.md)
 - 5. 큐
 - 6. 연결 리스트
 - 7. 딕셔너리
