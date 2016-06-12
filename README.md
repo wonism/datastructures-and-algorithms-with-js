@@ -12,7 +12,7 @@
 - [2. 배열](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-02.md)
 - [3. 리스트](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-03.md)
 - [4. 스택](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-04.md)
-- 5. 큐
+- [5. 큐](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-05.md)
 - 6. 연결 리스트
 - 7. 딕셔너리
 - 8. 해싱
