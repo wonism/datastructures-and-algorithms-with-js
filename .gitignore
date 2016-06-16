@@ -11,3 +11,7 @@ Desktop.ini
 # Linux
 .directory
 *~
+
+test.js
+*.gz
+*.c

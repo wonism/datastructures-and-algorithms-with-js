@@ -15,7 +15,7 @@
 - [5. 큐](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-05.md)
 - [6. 연결 리스트](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-06.md)
 - [7. 딕셔너리](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-07.md)
-- 8. 해싱
+- [8. 해싱](https://github.com/wonism/datastructures-and-algorithms-with-js/blob/master/ch-08.md)
 - 9. 집합
 - 10. 이진 트리와 이진 검색 트리
 - 11. 그래프와 그래프 알고리즘
